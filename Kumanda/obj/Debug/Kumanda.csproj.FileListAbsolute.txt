@@ -1,0 +1,14 @@
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\bin\Debug\Kumanda.exe.config
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\bin\Debug\Kumanda.exe
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\bin\Debug\Kumanda.pdb
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.Form1.resources
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.Properties.Resources.resources
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.exe
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.pdb
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\obj\Debug\Kumanda.csproj.ResolveComReference.cache
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kadir\source\repos\Kumanda\Kumanda\bin\Debug\AxInterop.WMPLib.dll
